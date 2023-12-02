@@ -1,2 +1,5 @@
 # .idea파일 무시
 .idea/
+
+# test01.py 테스트용 py파일 무시
+test01.py
